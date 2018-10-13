@@ -4,7 +4,7 @@ Java project with java 8 features examples
 
 The objective of this project is to put important java 8 features in one project. This should be helpful handy implementation for projects. Following topics covered
 
-Streams:
+Streams: streams on the collection to apply different functions like map,filter etc
 Filter: filter list of cities starting with letter 'n'
 Map: find out the even numners from the list of given numbers
 FlatMap: print players list using flat map
