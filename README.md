@@ -2,7 +2,7 @@
 
 Java project with java 8 features examples
 
-The objective of this project is to put important java 8 features in one project. This should be helpful handy implementation for projects. Following topics covered
+The objective of this project is to put important java 8 features in one project. This should be helpful handy implementation for projects. Following topics are covered
 
 Streams: streams on the collection to apply different functions like map,filter etc
 
